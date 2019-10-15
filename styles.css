@@ -1,0 +1,16 @@
+.header{
+  font-weight: bold;
+  background-color: lightgray;
+}
+td:hover {
+  text-decoration: underline;
+}
+table{
+  border:1px solid black;
+}
+.lightblue{
+  background-color: lightblue;
+}
+.plum{
+  background-color: plum;
+}
